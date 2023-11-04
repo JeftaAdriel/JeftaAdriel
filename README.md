@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/rHiinKv2NtEAAAAC/anime-kubo-san.gif">
 
-- 🌱 I’m currently majoring in **Statistics (penultimate year)** learning a bit of **Machine Learning**
+- 🌱 I’m currently majoring in **Statistics (penultimate year)** and learning a bit of **Machine Learning**
 
 - ⚡ Fun fact: **Ayase Saki is best girl, followed by Yukino and Kubo-san!**
 

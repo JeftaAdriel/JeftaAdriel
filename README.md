@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rHiinKv2NtEAAAAC/anime-kubo-san.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeftaadriel&label=Profile%20views&color=0e75b6&style=flat" alt="jeftaadriel" /> </p>
-
 - 🌱 I’m currently learning **Statistics and a bit of Machine Learning**
 
 - ⚡ Fun fact: **Ayase Saki is best girl, followed by Yukino and Kubo-san!**

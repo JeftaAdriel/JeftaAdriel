@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jefta Adriel</h1>
 <h3 align="center">An aspiring data analyst who also loves anime</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rHiinKv2NtEAAAAC/anime-kubo-san.gif">
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/rHiinKv2NtEAAAAC/anime-kubo-san.gif">
 
 - 🌱 I’m currently learning **Statistics and a bit of Machine Learning**
 

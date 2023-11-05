@@ -3,18 +3,18 @@
 <h1 align="center">Hi 👋, I'm Jefta Adriel</h1>
 <h3 align="center">An aspiring data scientist who also loves anime</h3>
 
-<img align="right" alt="Coding" width="250" src="https://media.tenor.com/rHiinKv2NtEAAAAC/anime-kubo-san.gif">
+<img align="right" alt="Coding" width="250" src="https://github.com/JeftaAdriel/JeftaAdriel/blob/main/Images/anime-kubo-san.gif">
 
 - 🌱 I’m currently majoring in **Statistics (penultimate year)** and learning a bit of **Machine Learning**
 
 - ⚡ Fun fact: **Ayase Saki is best girl, followed by Yukino and Kubo-san!**
 
 <h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JeftaAdriel/JeftaAdriel/main/Images/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JeftaAdriel/JeftaAdriel/main/Images/Rlogo.svg" alt="R" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jeftaadriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeftaadriel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeftaadriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/JeftaAdriel/JeftaAdriel/main/Images/linked-in-alt.svg" alt="jeftaadriel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Badges:</h3>
